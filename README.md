@@ -21,14 +21,14 @@
 
 Hi, I'm Youssef Sayed, a Full Stack developer 🚀 from Egypt, Currently working as Software Engineer Intern [@ALX](https://www.alxafrica.com/) 
 
-Beside's developing & Coding, I enjoy helping people to do and discover useful stuff🕵️.
+Besides developing & Coding, I enjoy helping people to do and discover useful stuff🕵️.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/CTX0ivSQbI78A/source.gif" />
 
 
 **Talking about Personal Progress:**
 
-- 🥇 Senior Electronics, Communications and Computer Engineering Student
+- 🥇 Electronics, Communications, and Computer Engineering Graduate
 - 👨‍💻 Software Engineer Intern C17 [@ALX](https://www.alxafrica.com/)
 - 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/youssef-sayed-498b94214/)
 
@@ -46,7 +46,14 @@ Beside's developing & Coding, I enjoy helping people to do and discover useful s
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=YOUSSEHF&show_icons=true&hide_border=true)
+<!--![Youssef's github stats](https://github-readme-stats.vercel.app/api?username=YOUSSEHF&show_icons=true&hide_border=true)-->
+
+<p align="center">
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssehf&layout=pie" alt="youssehf" /> -->
+
+ <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=youssehf&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="youssehf" />
+ <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=youssehf&hide_border=true&show_icons=true&locale=en&bg_color=151515" alt="youssehf" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Youssehf)
 
@@ -54,7 +61,7 @@ Beside's developing & Coding, I enjoy helping people to do and discover useful s
 
 ⭐️ Recent projects in which I have contributed 🚀
 
-
+<!--
 <a href="">
   <img align="left" src="" />
-</a>
+</a>-->
