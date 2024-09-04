@@ -16,10 +16,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Developer;%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-Hi, I'm Youssef Sayed, a Full Stack developer 🚀 from Egypt, Currently working as Software Engineer Intern [@ALX](https://www.alxafrica.com/) 
+Hi, I'm Youssef Sayed, a Front-End developer 🚀 from Egypt, Currently working as Software Engineer Intern [@ALX](https://www.alxafrica.com/) 
 
 Besides developing & Coding, I enjoy helping people to do and discover useful stuff🕵️.
 
