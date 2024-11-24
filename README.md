@@ -57,11 +57,11 @@ Besides developing & Coding, I enjoy helping people to do and discover useful st
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Youssehf)
 
-<!--:pushpin: Do you like this introduction?!, You can also made similar for yourself. Star and Fork this [README](https://github.com/Youssehf/Youssehf) :pencil:-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/Youssehf/Youssehf/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 
 
-⭐️ Recent projects in which I have contributed 🚀
+<!--⭐️ Recent projects in which I have contributed 🚀-->
 
 <!--
 <a href="">
