@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Youssef Sayed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Youssehf.Youssehf&left_color=royalblue&right_color=black"  />
 <div align="right">
     <a href="https://twitter.com/Youssefs679"><img align="left" alt="Youssef Sayed | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="color: #1DA1F2;" /></a>
   <a target="_blank" href="https://www.linkedin.com/in/youssef-sayedd/">
@@ -23,14 +21,18 @@ Here are some ideas to get you started:
     <img align="left" alt="Youssef's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="color: #E4405F;" />
   </a>
 </div>
+<h1 align="center">Hi, I'm Youssef Sayed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Youssehf.Youssehf&left_color=royalblue&right_color=black"  />
+
 <h3 align="center">Aspiring Full Stack Developer from Egypt </h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔 I'm currently working on Kubernetes with edge computing.
+🤔
 
 ✨ Currently focusing on Algorithms, design patterns, and SOLID principles.
-
-<img align="right" alt="GIF" src="https://is.gd/Oku7s4" width="250" style="" />
+<p align="right" style="margin-top: 20px; margin-bottom: 20px; margin-left: 20px;">
+  <img src="https://github.com/Youssehf/Youssehf/blob/main/assets/salt3.gif" alt="Alt text" width="190">
+</p>
 
 ## About me:
 - 😄 Fun fact: Besides developing & Coding, I enjoy helping people to do and discover weird stuff🕵️.
@@ -130,7 +132,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" /></code>
   <img width="12" />
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" height="30" alt="vite logo" /></code>
 </div>
 
 
