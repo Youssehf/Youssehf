@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 🤔
 
 ✨ Currently focusing on Algorithms, design patterns, and SOLID principles.
-<p align="right" style="margin-top: 20px; margin-bottom: 20px; margin-left: 20px;">
-  <img src="https://github.com/Youssehf/Youssehf/blob/main/assets/salt3.gif" alt="Alt text" width="190">
+
+<p align="center" style="margin-top: 20px; margin-bottom: 20px; margin-left: 20px;">
+  <img src="https://github.com/Youssehf/Youssehf/blob/main/assets/salt3.gif" alt="Alt text" width="75%" height="280">
 </p>
 
 ## About me:
