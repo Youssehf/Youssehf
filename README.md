@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <h3 align="center">Aspiring Full Stack Developer from Egypt </h3>
 
 ❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-🤔
 
 ✨ Currently focusing on Algorithms, design patterns, and SOLID principles.
 
