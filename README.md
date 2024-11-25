@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Aspiring Full Stack Developer from Egypt </h3>
 
-❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend
-
-✨ Currently focusing on Algorithms, design patterns, and SOLID principles.
+❤️ I prefer React on frontend and Node.js with MySQL and/or MongoDB and/or PostgreSQL on backend.
 
 <p align="center" style="margin-top: 20px; margin-bottom: 20px; margin-left: 20px;">
   <img src="https://github.com/Youssehf/Youssehf/blob/main/assets/salt3.gif" alt="Alt text" width="75%" height="280">
@@ -51,7 +49,7 @@ Here are some ideas to get you started:
 - ❤️ API, RESTful API, GraphQL
 - HTML/CSS, Javascript
 - git, docker, CI/CD
-- SQL, MySQL, NoSQL, Redis, PostgreSQL, MongoDB ...
+- SQL, MySQL, NoSQL, PostgreSQL, MongoDB ...
 - LocalStorage, SessionStorage, JWT
 
 ## Languages and Tools:
